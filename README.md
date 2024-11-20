@@ -22,5 +22,10 @@ qnhCalculator.getQNH();
 ```
 Outputs the calculated QNH. Use this to retrieve the QNH value for your application.
 
+# Installation
+1. Download or clone this repository.
+2. Copy the BaroAutoQNH folder into your Arduino libraries directory (Windows: Documents/Arduino/libraries) or (macOS/Linux: ~/Arduino/libraries)
+3. Restart your Arduino IDE to ensure the library is recognized.
+
 # References
 www.weather.gov/media/epz/wxcalc/altimeterSetting.pdf
