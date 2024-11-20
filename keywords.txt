@@ -1,0 +1,5 @@
+BaroAutoQNH	KEYWORD1
+calculateQNH	KEYWORD2
+getQNH	KEYWORD2
+setStationElevation	KEYWORD2
+setPressureOffset	KEYWORD2
